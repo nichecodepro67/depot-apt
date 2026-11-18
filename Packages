@@ -1,12 +1,12 @@
 Package: malet
-Version: 1.0-1
+Version: 1.0-3
 Architecture: all
 Maintainer: Yohan Malet <cyrian.blndl@eduge.ch>
 Filename: ./malet.deb
-Size: 632
-MD5sum: 0a7f59171c9a3e6e5a2eb8f4568fcb3c
-SHA1: 100f0710377c078c12b4d87422b1ff16ac0a398b
-SHA256: 1ae5b8c55554ca6f77e92bf2657aaa2c2a5bc040ad91cb4c8abaca5d019a70e6
+Size: 2374
+MD5sum: ce9ddcc4249bbc0a6222a129807be27b
+SHA1: 6d6c6a00c6c05eae7255f9688912b0e23cd8f616
+SHA256: 83fdad3297e032d155c83436cdbc87cc2fbf430fc66596f76746b51ea5433c09
 Section: utils
 Priority: optional
 Description: A friendly package that displays my love for yohan malet
