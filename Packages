@@ -4,9 +4,9 @@ Architecture: all
 Maintainer: Yohan Malet <cyrian.blndl@eduge.ch>
 Filename: ./malet.deb
 Size: 12064
-MD5sum: ec7c50bc0aea53e1e4bdfaee4262a81e
-SHA1: e25f29edd17a48dcf3367cdda90a517678cad85d
-SHA256: e1d75ada646d915c570dfa7bda5325a76c450babd38a19c5b6c377ae48dd366d
+MD5sum: 536d4e90b204a7627ebed246e1b67804
+SHA1: 21038aeae58ab0d21b95dcbbb664317f22cb234d
+SHA256: a1abf491b163758a7d37451fdee4c661f5b186403050790336db2c2852859bbb
 Section: utils
 Priority: optional
 Description: grosse mise a jour pour le snake et bientot le chat
