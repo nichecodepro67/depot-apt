@@ -1,12 +1,12 @@
 Package: malet
-Version: 1.0-8
+Version: 1.0-9
 Architecture: all
 Maintainer: Yohan Malet <cyrian.blndl@eduge.ch>
 Filename: ./malet.deb
-Size: 12064
-MD5sum: 340fcee78e60302e6931822d89150b6d
-SHA1: f30c1c222b218f2dd13d9bdda4fae876493ba4c1
-SHA256: b6d6bcb8dc29d79b32cc251b8bae091286c37b4181364e89b76ef903bceacd76
+Size: 12070
+MD5sum: 7565c8b588152da7d2cd075975a3e3ef
+SHA1: c3308cd79405d9453206ed586db76134c5c808d8
+SHA256: 6d693808a6e7bcdedd0c12b99e444e7130951d29c38b68d00dd1ebf58b90fbdb
 Section: utils
 Priority: optional
 Description: grosse mise a jour pour le snake et bientot le chat
